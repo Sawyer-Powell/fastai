@@ -1,0 +1,5 @@
+space: "fastai"
+root: "/home/sawyerpowell/repos/fastai"
+windows:
+  - name: "jupyter"
+    init: "jupyter-lab {enter}"
